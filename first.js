@@ -1,2 +1,2 @@
-let one = 1 
-console.log(one)
+let one = 'ты не один' 
+console.log('one= ',one)
